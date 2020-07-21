@@ -1,20 +1,7 @@
 ### Bonjour mon amis 👋
 
 # this is somil jain (https://coderatwork7.firebaseapp.com/)
-<!--
-**somiljain7/somiljain7** is a ✨ _special_✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 😄I am an Pre -final year CSE student with major interests in privacy preserving algorithms. I have a huge interest in NLP .
 I’m currently learning ways to built and contribute in ✨DECENTRALISED INTERNET✨
 
@@ -31,7 +18,7 @@ I’m currently learning ways to built and contribute in ✨DECENTRALISED INTERN
 5)![GitHub somiljain7](https://img.shields.io/github/followers/somiljain7?label=follow&style=social)
 
 
-👯 I’m looking to collaborate on researches regarding Cryptography,NLP or secure and privacy preserving algorithms.
+⚡ I’m looking to collaborate on researches regarding Cryptography,NLP or secure and privacy preserving algorithms.
 so contact me.
 💬 Ask me about :
 
