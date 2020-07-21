@@ -25,7 +25,11 @@ I’m currently learning ways to built and contribute in ✨DECENTRALISED INTERN
 
 3)![Linkedin: somiljain7](https://img.shields.io/badge/-somiljain7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somil-jain7/)
 
-4)https://coderatwork7.firebaseapp.com/
+4)![PORTFOLIO](https://img.shields.io/badge/-MySite-black?style=flat-squarelink=https://coderatwork7.firebaseapp.com/)
+
+
+5)![GitHub somiljain7](https://img.shields.io/github/followers/somiljain7?label=follow&style=social)
+
 
 👯 I’m looking to collaborate on researches regarding Cryptography,NLP or secure and privacy preserving algorithms.
 so contact me.
