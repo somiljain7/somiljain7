@@ -1,7 +1,7 @@
 ### Bonjour mon amis 👋
 
 <!--
-**somiljain7/somiljain7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**somiljain7/somiljain7** is a ✨ _special_✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😄I am an Pre -final year CSE student with major interests in privacy preserving algorithms. I have a huge interest in NLP .
-I’m currently learning ways to built and contribute in #DECENTRALISED INTERNET
+I’m currently learning ways to built and contribute in ✨DECENTRALISED INTERNET✨
 
 📫 How to reach me:  
 1)https://t.me/grandmaster7110
@@ -26,7 +26,7 @@ I’m currently learning ways to built and contribute in #DECENTRALISED INTERNET
 
 4)https://coderatwork7.firebaseapp.com/
 
-👯 I’m looking to collaborate on researches regarding computer vision ,NLP or secure and privacy preserving algorithms.
+👯 I’m looking to collaborate on researches regarding Cryptography,NLP or secure and privacy preserving algorithms.
 so contact me.
 💬 Ask me about :
 
