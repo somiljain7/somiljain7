@@ -1,6 +1,6 @@
 ### Bonjour mon amis 👋
 
-# this is somil jain (https://coderatwork7.firebaseapp.com/)
+# this is somil jain(CODERATWORK7) (https://coderatwork7.firebaseapp.com/)
 
 😄I am an Pre -final year CSE student with major interests in privacy preserving algorithms. I have a huge interest in NLP .
 I’m currently learning ways to built and contribute in ✨DECENTRALISED INTERNET✨
