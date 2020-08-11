@@ -3,7 +3,6 @@
 # this is somil jain(CODERATWORK7) (https://coderatwork7.firebaseapp.com/)
 
 😄I am an Pre -final year CSE student with major interests in privacy preserving algorithms. I have a huge interest in NLP .
-I’m currently learning ways to built and contribute in ✨DECENTRALISED INTERNET✨
 
 📫 How to reach me:  
 1)https://t.me/grandmaster7110
