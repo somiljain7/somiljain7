@@ -11,6 +11,7 @@
 
 4)![GitHub somiljain7](https://img.shields.io/github/followers/somiljain7?label=follow&style=social)
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vanshbhasin157&repo=vanshbhasin157&countColorcountColor&countColor=%237B1E7B" />
 
 
 ![coderatwork7's github stats](https://github-readme-stats.vercel.app/api/?username=somiljain7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
