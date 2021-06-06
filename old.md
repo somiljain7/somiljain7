@@ -1,6 +1,6 @@
-# Bonjour mon amis 👋
+# BONJOUR MON AMI 👋
 
-# this is somil jain(CODERATWORK7) (https://coderatwork7.firebaseapp.com/)
+# this is somil jain(CODERATWORK7) (http://somiljain7.github.io)
 
 📫 How to reach me:  
 1)https://t.me/grandmaster7110
@@ -11,7 +11,7 @@
 
 4)![GitHub somiljain7](https://img.shields.io/github/followers/somiljain7?label=follow&style=social)
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=somiljain7&repo=vanshbhasin157&countColorcountColor&countColor=%237B1E7B" />
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=somiljain7&repo=somiljain7&countColorcountColor&countColor=%237B1E7B" />
 
 
 ![coderatwork7's github stats](https://github-readme-stats.vercel.app/api/?username=somiljain7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
