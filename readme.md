@@ -1,7 +1,7 @@
 # BONJOUR MON AMI 👋
 
 # this is somil jain(CODERATWORK7) (http://somiljain7.github.io)
-I am a researcher and data privacy enthusiast who is trying to get a breakthrough in privacy field . I have huge innterests in natural language processing
+I am a researcher and data privacy enthusiast who is trying to get a breakthrough in privacy field . I have huge interests in natural language processing
 - 🔭 I’m currently learning cryptography and exploring the world of NLP
 - 👯 I’m looking to collaborate on research regarding cyber security , AI ethics .
 - 💬 Delivers several talks and seminars at colleges regarding blockchain and ML.
