@@ -1,14 +1,14 @@
 # BONJOUR MON AMI 👋
 
 # this is somil jain(CODERATWORK7) (http://somiljain7.github.io)
-I am a researcher and data privacy enthusiast who is trying to get a breakthrough in privacy field . I have huge interests in natural language processing
+I am a researcher and data privacy enthusiast who is trying to get a breakthrough in Speech processing field . I have huge interests in natural language processing and speech processing. 
 - 🔭 I’m currently learning cryptography and exploring the world of NLP
 - 👯 I’m looking to collaborate on research regarding cyber security , AI ethics .
 - 💬 Delivers several talks and seminars at colleges regarding blockchain and ML.
-- 😄 president of MOZILLA CAMPUS CLUB BVUCOEP [@mozilla-campus-club-bvducoep](https://mozilla-campus-club-bvducoep.github.io/)
+- 😄 i was president of MOZILLA CAMPUS CLUB BVUCOEP [@mozilla-campus-club-bvducoep](https://mozilla-campus-club-bvducoep.github.io/) (2021-2022)
 
 📫 How to reach me:  
-1) https://t.me/grandmaster7110
+1) https://t.me/coderatwork7
 
 2) mail me: somiljain71100@gmail.com
 
