@@ -19,7 +19,11 @@ I am a researcher and data privacy enthusiast who is trying to get a breakthroug
 5) ![Twitter coderatwork7](https://img.shields.io/twitter/follow/coderatwork7?style=social)
 
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=somiljain7&repo=somiljain7&countColorcountColor&countColor=%237B1E7B" />
+![](https://komarev.com/ghpvc/?username=somiljain7&color=green)
+---
+
+[![coderatwork7's github stats](https://github-readme-stats.vercel.app/api?username=somiljain7&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
