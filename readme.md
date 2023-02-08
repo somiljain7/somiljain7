@@ -2,7 +2,7 @@
 
 # this is somil jain(CODERATWORK7) (http://somiljain7.github.io)
 I am a researcher and data privacy enthusiast who is trying to get a breakthrough in Speech processing field . I have huge interests in natural language processing and speech processing. 
-- 🔭 I’m currently a Junior Research fellow @ NIT Surathkal Karnataka
+- 🔭 I’m currently a Junior Research fellow @ NIT Karnataka, Surathkal 
 - 👯 I’m looking to collaborate on research regarding speech signal processing .
 - 💬 Delivered several talks and seminars at colleges regarding blockchain and ML.
 - 😄 i was president of MOZILLA CAMPUS CLUB BVUCOEP [@mozilla-campus-club-bvducoep](https://mozilla-campus-club-bvducoep.github.io/) (2021-2022)
