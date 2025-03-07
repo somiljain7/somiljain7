@@ -2,7 +2,8 @@
 
 # this is somil jain(CODERATWORK7) (http://somiljain7.github.io)
 I am a researcher who is trying to breakthrough  .  
-- 🔭 I’m currently a Junior Research fellow @ NIT Karnataka, Surathkal 
+- Currently an AI/ML Developer @ Aerocraft Engineering  .
+- 🔭 I was a Junior Research fellow @ NIT Karnataka, Surathkal  
 - 👯 I’m looking to collaborate on research regarding speech , text and image based models.
 - 💬 Delivered several talks and seminars at colleges regarding blockchain and ML.
 - 😄 i was president of MOZILLA CAMPUS CLUB BVUCOEP [@mozilla-campus-club-bvducoep](https://mozilla-campus-club-bvducoep.github.io/) (2021-2022)
@@ -12,7 +13,7 @@ I am a researcher who is trying to breakthrough  .
 
 2) mail me: somiljain71100@gmail.com
 
-3) ![Linkedin: somiljain7](https://img.shields.io/badge/-somiljain7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somil-jain7/)
+3) ![Linkedin: somiljain7](https://img.shields.io/badge/-somiljain7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somiljain7/)
 
 4) ![GitHub somiljain7](https://img.shields.io/github/followers/somiljain7?label=follow&style=social)
 
