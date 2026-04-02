@@ -4,7 +4,7 @@
 
 🌐 **Portfolio:** [somiljain7.github.io](http://somiljain7.github.io)  
 📍 **Location:** Bengaluru, Karnataka, India  
-💼 **Current Role:** Founding ML Engineer @ Vaani
+💼 **Current Role:** Founding ML Engineer @ Vaani AI research
 
 ---
 
